@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Analisis-de-H-bitos-de-Compra-en-Instacart
-=======
 # Análisis-de-Hábitos-de-Compra-en-Instacart
 
 # Introducción
@@ -60,4 +57,3 @@ El conjunto de datos proporciona información sobre la repetición de productos 
 En promedio, alrededor del 59.96% de los productos que los clientes compran son productos que ya habían pedido anteriormente. Esto indica una tendencia a la repetición de compra de productos específicos por parte de los clientes.
 
 Los 20 principales artículos que las personas suelen poner primero en sus carritos incluyen productos básicos como leche, frutas y verduras, así como bebidas como agua y soda. Podemos decir que estos son productos orgánicos y saludables.
->>>>>>> 2b984d86c3ea19983e0e7768c4bbae9a1a96e27b
